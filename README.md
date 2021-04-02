@@ -8,17 +8,17 @@ And to those who would chide us on starting a day late we say: yes one day behin
 
 So enter our the halls of our museum of anguish and see for yourselves the urgency of our mission and our list of demands we demand be met. Isolated we are less than, but united  we are ~~Legion~~, ~~Legionairres~~, ~~Legend~~, Legumes - in that we can cause allergic reactions to certain predisposed individuals... Listen this book is just beginning. A Magikarp today, but a burden to all those who carry his weight for far too long... Yes we are the __Foolish__. Now enter ye who can withstand the grating of our shrills.
 
-_<sub>...:curly_loop:... 1. f3 e5 2. g4 ♛h4# ...:curly_loop:... 1. f3 e5 2. g4 ♛h4# ...:curly_loop:... 1. f3 e5 2. g4 ♛h4# ...:curly_loop:...</sub>_
+_<sub>...↻... 1. f3 e5 2. g4 ♛h4# ...↻... 1. f3 e5 2. g4 ♛h4# ...↻... 1. f3 e5 2. g4 ♛h4# ...↻...</sub>_
 > A foolish man once said:
 >
 >> _"A fool thinks himself to be wise,
 >> but a wise man knows himself to be a fool."_
 >>
->> _~ William Shakespeare_
+>> ~ William Shakespeare
 >
 > Nobody knew what this man was on about back then. And people still don't know WTF he was talking about to this day...
 
-### :chess_pawn: Jester F
+### ♙ Jester F
 
 Founder, Co-founder, Majority Shareholder, Head of the Board of Director, First Manager, Lead Janitor and Sole Employee
 
