@@ -1,71 +1,25 @@
-# Getting Started with Create React App
+# Fools Work
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## A Meeting Place of the Minds
 
-## Available Scripts
+And of those who've left their's behind, to finally take a a stand against the injustices and justices deemed redundant or subjectively disagreeable which we face on a sporadic basis throughout our lives. __Today__, on this day of _April the 2nd in the year 2021 CE_, we plant our flag in the ground and our feet on our shoes, prepared to air our grievances to any and all who would listen and to those caught unawares of our impromptu pronoucements.
 
-In the project directory, you can run:
+And to those who would chide us on starting a day late we say: yes one day behind deadline, but only temporally. And some would argue this a feature not a bug. For if we had made the deadline it would have been a "promptu" pronouncement, a word so boring they didn't even put it in the dictionary.
 
-### `npm start`
+So enter our the halls of our museum of anguish and see for yourselves the urgency of our mission and our list of demands we demand be met. Isolated we are less than, but united  we are ~~Legion~~, ~~Legionairres~~, ~~Legend~~, Legumes - in that we can cause allergic reactions to certain predisposed individuals... Listen this book is just beginning. A Magikarp today, but a burden to all those who carry his weight for far too long... Yes we are the __Foolish__. Now enter ye who can withstand the grating of our shrills.
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+_<sub>...:curly_loop:... 1. f3 e5 2. g4 ♛h4# ...:curly_loop:... 1. f3 e5 2. g4 ♛h4# ...:curly_loop:... 1. f3 e5 2. g4 ♛h4# ...:curly_loop:...</sub>_
+> A foolish man once said:
+>
+>> _"A fool thinks himself to be wise,
+>> but a wise man knows himself to be a fool."_
+>>
+>> _~ William Shakespeare_
+>
+> Nobody knew what this man was on about back then. And people still don't know WTF he was talking about to this day...
 
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
+### :chess_pawn: Jester F
 
-### `npm test`
+Founder, Co-founder, Majority Shareholder, Head of the Board of Director, First Manager, Lead Janitor and Sole Employee
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
-
-### `npm run build`
-
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
-
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
-
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
-# jesterf
+__Fools__<sup><sub><sup>(</sup>'<sup>)</sup></sub></sup></sup> __Work__, LBN _(Limited by Nothing)_ <sub><sup><sub>A ~~for-profit~~ 501(c)(3)</sub></sup></sub>
