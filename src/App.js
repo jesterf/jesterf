@@ -1,4 +1,4 @@
-import logo from './logo.svg';
+import logo from './logo_fool.svg';
 import './App.css';
 
 function App() {
@@ -15,7 +15,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Learn React
+          Enter all ye who dare withstand the grating of our shrills ...
         </a>
       </header>
     </div>

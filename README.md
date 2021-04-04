@@ -6,7 +6,7 @@ And of those who've left their's behind, to finally take a a stand against the i
 
 And to those who would chide us on starting a day late we say: yes one day behind deadline, but only temporally. And some would argue this a feature not a bug. For if we had made the deadline it would have been a "promptu" pronouncement, a word so boring they didn't even put it in the dictionary.
 
-So enter our the halls of our museum of anguish and see for yourselves the urgency of our mission and our list of demands we demand be met. Isolated we are less than, but united  we are ~~Legion~~, ~~Legionairres~~, ~~Legend~~, Legumes - in that we can cause allergic reactions to certain predisposed individuals... Listen this book is just beginning. A Magikarp today, but a burden to all those who carry his weight for far too long... Yes we are the __Foolish__. Now enter ye who can withstand the grating of our shrills.
+So enter our the halls, the museum of anguish and see for yourselves the urgency of our mission and our list of demands we demand be met. Isolated we are less than, but united  we are ~~Legion~~, ~~Legionairres~~, ~~Legend~~, Legumes - in that we can cause allergic reactions to certain predisposed individuals... Listen this book is just beginning. A Magikarp today, but a burden to all those who carry his weight for far too long... Yes we are __The Fools__. Now enter ye who can withstand the grating of our shrills.
 
 _<sub>...↻... 1. f3 e5 2. g4 ♛h4# ...↻... 1. f3 e5 2. g4 ♛h4# ...↻... 1. f3 e5 2. g4 ♛h4# ...↻...</sub>_
 > A foolish man once said:
